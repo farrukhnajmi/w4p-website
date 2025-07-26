@@ -102,7 +102,7 @@ latitude = "41.9305"
 longitude = "70.0310"
 
 # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-style = "default"
+style = "palestine"
 
 # about_us = "<p>Wellfleet Software provides software consulting services to solve complex business problems. We specialize in secure medical software development within regulated systems such as medical devices.</p>"
 copyright = "Copyright (c) 2023 - 2025, Wellfleet for Palestine; all rights reserved."
