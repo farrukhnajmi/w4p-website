@@ -4,7 +4,7 @@ draft = true
 title = 'Palestine Film Series'
 +++
 
-{{< carousel name="films" >}}
+{{< carousel name="carousel-films" >}}
 
 Below is the schedule of films that have been or will be screened as part of our educational Palestine Film Series.
 
