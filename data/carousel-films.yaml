@@ -1,0 +1,22 @@
+# data/carousel-films.yaml
+
+images:
+  - image: images/films/1948_CreationAndCatastropheFlyer.jpg
+    content_html: "1948 Creation and Catastrophe"
+  - image: images/films/Where-Olive-Trees-Weep-Wellfleet-flyer.png
+    content_html: "Where Olive Trees Weep"
+  - image: images/films/IsraelismScreening-poster.png
+    content_html: "Israelism"
+  - image: images/films/TheSettlersFlyer.jpg
+    content_html: "The Settlers"
+  - image: images/films/MayorFlyer.jpg
+    content_html: "Mayor"
+  - image: images/films/occupation-of-american-mind-flyer.jpeg
+    content_html: "The Occupation of the American Mind"
+  - image: images/films/FromGroundZeroFlyer.jpg
+    content_html: "From Ground Zero"
+  - image: images/films/TheTeacher.png
+    content_html: "The Teacher"
+  - image: images/films/Roadmap-to-Apartheid.jpg
+    content_html: "Roadmap to Apartheid"
+

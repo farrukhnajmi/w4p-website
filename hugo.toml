@@ -1,7 +1,8 @@
 baseURL = 'https://www.wellfleet4palestine.org/'
 languageCode = 'en-us'
 title = 'Wellfleet for Palestine'
-theme = 'ananke'
+theme = "hugo-universal-theme"
+# theme = 'ananke'
 
 # Define the number of posts per page
 pagination.pagerSize = 10
@@ -104,7 +105,7 @@ longitude = "70.0310"
 style = "default"
 
 # about_us = "<p>Wellfleet Software provides software consulting services to solve complex business problems. We specialize in secure medical software development within regulated systems such as medical devices.</p>"
-# copyright = "Copyright (c) 2006 - 2023, Wellfleet Software; all rights reserved."
+copyright = "Copyright (c) 2023 - 2025, Wellfleet for Palestine; all rights reserved."
 
 # Format dates with Go's time formatting
 date_format = "January 2, 2006"
@@ -130,7 +131,7 @@ blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
-enable = false
+enable = true
 #text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
 #      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
 #      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
