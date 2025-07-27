@@ -27,27 +27,39 @@ weight     = 2
 
 [[menu.main]]
 name       = "Actions"
-identifier = "menu.services"
+identifier = "menu.actions"
 url        = "/actions"
 weight     = 3
 
 [[menu.main]]
 name       = "Films"
-identifier = "menu.portfolio"
+identifier = "menu.films"
 url        = "/palestine-film-series"
 weight     = 4
 
 [[menu.main]]
 name       = "Farmers Market"
-identifier = "menu.team"
+identifier = "menu.market"
 url        = "/farmers-market"
 weight     = 5
+
+[[menu.main]]
+name       = "News"
+identifier = "menu.news"
+url        = "/news"
+weight     = 6
+
+[[menu.main]]
+name       = "The Arts"
+identifier = "menu.arts"
+url        = "/arts"
+weight     = 7
 
 [[menu.main]]
 name       = "Contact"
 identifier = "menu.contact"
 url        = "/contact"
-weight     = 6
+weight     = 8
 
 # Top bar social links menu
 
