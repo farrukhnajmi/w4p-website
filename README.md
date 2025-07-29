@@ -21,7 +21,16 @@
 [The gcloud CLI is newer and more comprehensive](https://stackoverflow.com/a/58147001). Use it when possible.
 
 
+# Hugo Cheat sheet
+
 # Cloud Storage CLI Cheat sheet
+
+| Command Group | Action             | Command                             |
+|:--------------|:-------------------|:------------------------------------|
+| General       |                    |                                     |
+|               | Create new site    | `hugo new site w4p-website`         |
+|               | Create new content | `hugo new content content/about.md` |
+
 
 | Command Group       | Action                          | Command                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |:--------------------|:--------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,11 +58,12 @@
 | config              |                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |                     | set default region and zone     | `gcloud compute project-info add-metadata --metadata google-compute-default-region=us-east4,google-compute-default-zone=ZONE`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 # Adding CNAME Record
+This needs to be update
 
-1. Goto: https://my.bluehost.com/cgi/dm/zoneedit
-2. Select domain: wellfleetsoftware.com
-3. Add a CNAME record using following info
-4. Click Add Record
+1. ~~Goto: https://my.bluehost.com/cgi/dm/zoneedit~~
+2. ~~Select domain: wellfleetsoftware.com~~
+3. ~~Add a CNAME record using following info~~
+4. ~~Click Add Record~~
 
 | Host record | Points to                | TTL   | TYPE  |
 |-------------|--------------------------|-------|-------|
