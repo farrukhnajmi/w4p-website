@@ -1,6 +1,6 @@
 +++
 date = '2025-07-24T17:06:00-04:00'
-draft = true
+draft = false
 title = 'W4P at Wellfleet Farmers Market'
 +++
 

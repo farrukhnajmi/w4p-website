@@ -1,6 +1,6 @@
 +++
 date = '2025-07-24T16:42:24-04:00'
-draft = true
+draft = false
 title = 'Actions'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = 'About Wellfleet for Palestine'
 date = 2025-07-24T16:31:53-04:00
-draft = true
+draft = false
 +++
 
 # Who We Are

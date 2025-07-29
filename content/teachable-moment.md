@@ -1,10 +1,9 @@
 +++
 date = '2025-07-29T13:47:52-04:00'
 draft = true
-title = 'Teachable Moment'
+title = 'A Teachable Moment in Wellfleet'
 +++
 
-# A Teachable Moment in Wellfleet
 On January 14, Wellfleet for Palestine (W4P) showed the film [The Occupation of the American Mind](https://youtu.be/dP0-YohJR-g?si=u482papWdea7QIDn) at Wellfleet Public Library as part of our ongoing Palestine Film Series. We always get some hateful comments when we post announcements for these public events. This time, it was a whole different level with a coordinated campaign of intimidation from outside groups in an attempt to silence our group and prevent the showing of this film. The Library staff got thousands of formulaic emails. Some patrons threatened to cut their Library cards and those of their children. The Town Manager and Town Hall staff got a flood of phone calls. Some homeowners threatened to sell their homes and leave town. There were veiled threats of violence in some messages. Members of Wellfleet for Palestine received hate messages as well. The massive coordinated effort to silence us makes the very point of the film.
 
 W4P felt that showing this film was important to help people understand how support for the war in Gaza is being shaped by the media narrative we consume, and so is crucial in our effort to increase public awareness of the horrific genocide in Gaza, especially since our tax dollars are paying for the weapons being used against a densely caged civilian population with nowhere to go.

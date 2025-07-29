@@ -1,10 +1,10 @@
 +++
 date = '2025-07-27T11:20:43-04:00'
-draft = true
-title = 'The Arts'
+draft = false
+title = 'Palestine in The Arts'
 +++
 
-# Visual Art
+# Visual Arts
 
 * [Soul of My Soul](https://sites.google.com/view/soul-of-my-soul/home)
 * [Where Olive Trees Weep](https://sites.google.com/view/where-olive-trees-weep/home)

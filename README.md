@@ -77,6 +77,7 @@ This needs to be update
 - Need Home page content
 - Need to fix rendering of Films and News pages
 - Need content for 
+- Fix and enable search widget
 
 # References
 

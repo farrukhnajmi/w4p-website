@@ -22,43 +22,43 @@ weight     = 1
 [[menu.main]]
 name       = "About"
 identifier = "menu.about"
-url        = "/about"
+url        = "/about/"
 weight     = 2
 
 [[menu.main]]
 name       = "Actions"
 identifier = "menu.actions"
-url        = "/actions"
+url        = "/actions/"
 weight     = 3
 
 [[menu.main]]
 name       = "Films"
 identifier = "menu.films"
-url        = "/palestine-film-series"
+url        = "/palestine-film-series/"
 weight     = 4
 
 [[menu.main]]
 name       = "Farmers Market"
 identifier = "menu.market"
-url        = "/farmers-market"
+url        = "/farmers-market/"
 weight     = 5
 
 [[menu.main]]
 name       = "News"
 identifier = "menu.news"
-url        = "/news"
+url        = "/news/"
 weight     = 6
 
 [[menu.main]]
 name       = "The Arts"
 identifier = "menu.arts"
-url        = "/arts"
+url        = "/arts/"
 weight     = 7
 
 [[menu.main]]
 name       = "Contact"
 identifier = "menu.contact"
-url        = "/contact"
+url        = "/contact/"
 weight     = 8
 
 # Top bar social links menu
@@ -153,9 +153,9 @@ enable = true
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-search = true
-categories = true
-tags = true
+search = false
+categories = false
+tags = false
 
 [params.carouselCustomers]
 items = 6
