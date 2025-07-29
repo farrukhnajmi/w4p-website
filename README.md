@@ -2,6 +2,7 @@
 * [Running Website Locally](#running-website-locally)
 * [Publishing Website To GCloud Storage](#publishing-website-to-gcloud-storage)
 * [gcloud Vs gsutil](#gcloud-vs-gsutil)
+* [Hugo Cheat sheet](#hugo-cheat-sheet)
 * [Cloud Storage CLI Cheat sheet](#cloud-storage-cli-cheat-sheet)
 * [Adding CNAME Record](#adding-cname-record)
 * [Issues](#issues)
@@ -72,6 +73,10 @@ This needs to be update
 # Issues
 
 - Home: Aspect ratio for Adeel shows large white space. Graphics bigger and more legible.
+- Need to set icon to display in browser tabs
+- Need Home page content
+- Need to fix rendering of Films and News pages
+- Need content for 
 
 # References
 
