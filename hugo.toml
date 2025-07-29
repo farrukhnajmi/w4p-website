@@ -150,7 +150,6 @@ enable = true
 #      </p>
 #      """
 
-
 # Enable and disable widgets for the right sidebar
 [params.widgets]
 search = false
@@ -257,7 +256,7 @@ order = [".jpg$", ".gif$"]
 name = "w4p-website"
 # The Go Cloud Development Kit URL to deploy to. Examples:
 # GCS; see https://gocloud.dev/howto/blob/#gcs
-URL = "gs://www.wellfleetsoftware.com"
+URL = "gs://www.wellfleet4palestine.org/"
 
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
