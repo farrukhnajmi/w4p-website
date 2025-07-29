@@ -26,4 +26,4 @@ We currently sell the following products from Palestine:
 
 We also provide free tasting of our Olive Oil and Za'atar and offer free solidarity buttons.
 
-![picture alt](/images/tolef-poster.png)
+![TOLEF Team at Dome of the Rock](/images/tolef-poster.png)
