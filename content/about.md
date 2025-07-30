@@ -20,7 +20,7 @@ freedom, equality and justice for Palestinians.
 * We influence our local, state, and federal governments to support freedom for Palestinians using all peaceful means.
 
 # What are some examples of activities by Wellfleet for Palestine?
-* Organize and patrticipate in [actions](../actions) such as ongoing standouts, rallies, marches, email and phone campaigns in support of a ceasefire in Gaza and freedom, equality and justice for Palestinians.
+* Organize and participate in [actions](../actions) such as ongoing standouts, rallies, marches, email and phone campaigns in support of a ceasefire in Gaza and freedom, equality and justice for Palestinians.
 * Screening [films](../palestine-film-series) about Palestine. 
 * Selling Palestinian products at [Wellfleet Farmers Market](../farmers-market) and donating all profits towards educational and relief efforts in Palestine.
 
