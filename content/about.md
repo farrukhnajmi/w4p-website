@@ -5,7 +5,7 @@ draft = false
 +++
 
 # Who We Are
-Wellfleet for Palestine (W4P) is a group of Wellfleet residents who are committed to
+Wellfleet for Palestine 🇵🇸 (W4P) is a group of Wellfleet residents who are committed to
 freedom, equality and justice for Palestinians.
 
 # What We Stand For

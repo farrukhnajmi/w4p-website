@@ -72,12 +72,7 @@ This needs to be update
 
 # Issues
 
-- Home: Aspect ratio for Adeel shows large white space. Graphics bigger and more legible.
-- Need to set icon to display in browser tabs
-- Need Home page content
-- Need to fix rendering of Films and News pages
-- Need content for 
-- Fix and enable search widget
+Issues are tracked collaboratively in [this document](https://docs.google.com/document/d/1_EPz8lXnPi5yVRu-qUUT-w6V97-JKUGo6T4Uxdt8PJs/edit?usp=sharing).
 
 # References
 
