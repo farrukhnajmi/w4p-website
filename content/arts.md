@@ -4,14 +4,6 @@ draft = false
 title = 'Palestine in The Arts'
 +++
 
-# Visual Arts
-
-* [Soul of My Soul](https://sites.google.com/view/soul-of-my-soul/home)
-* [Where Olive Trees Weep](https://sites.google.com/view/where-olive-trees-weep/home)
-* [The Soul of Wellfleet](https://sites.google.com/view/the-soul-of-wellfleet/home)
-
-[//]: # (<carousel name="visual-arts-carousel" height="500" unit="px" duration="5000">)
-
 # Books on Palestine
 
 | Cover                                                                                                                                                                                                                                                                                                   | Title                                                                                                                                                                                           | Author                                                                                    |    ISBN13     | Rating |
@@ -51,7 +43,16 @@ title = 'Palestine in The Arts'
 | [![The Zionist Idea: A Historical Analysis and Reader](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344713578l/282238._SY75_.jpg)](https://www.goodreads.com/book/show/282238.The_Zionist_Idea)                                                                               | [The Zionist Idea: A Historical Analysis and Reader](https://www.goodreads.com/book/show/282238.The_Zionist_Idea)                                                                               | [Hertzberg, Arthur](https://www.goodreads.com/author/show/148823.Arthur_Hertzberg)        | 9780827606227 |  4.08  |
 
 
-
 # Poems for Palestine
 
 * [Poems for Palestine](https://publishersforpalestine.org/wp-content/uploads/2024/02/poems_for_palestine_online.pdf)
+* [Rita and the Gun](https://www.youtube.com/watch?v=iIs4azDRfPk&list=RDiIs4azDRfPk), poem by Mahmoud Darwesh, sung by Marcel Khalifeh
+
+# Visual Arts
+
+* [Soul of My Soul](https://sites.google.com/view/soul-of-my-soul/home)
+* [Where Olive Trees Weep](https://sites.google.com/view/where-olive-trees-weep/home)
+* [The Soul of Wellfleet](https://sites.google.com/view/the-soul-of-wellfleet/home)
+
+[//]: # (<carousel name="visual-arts-carousel" height="500" unit="px" duration="5000">)
+
