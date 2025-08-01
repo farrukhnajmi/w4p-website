@@ -5,8 +5,10 @@ title = 'W4P at Wellfleet Farmers Market'
 +++
 
 Volunteers from Wellfleet for Palestine staff a nonprofit table near the 
-entrance of Wellfleet Farmers Market every Wednesday between May 21, 2025, 
-and October 15, 2025. 
+entrance of [Wellfleet Farmers Market](https://www.wellfleetfarmersmarket.com/) every Wednesday between May 21, 2025, 
+and October 15, 2025. The location is the field next to Wellfleet's [First Congregational Church](https://www.wellfleetchurch.org/) parking lot at 200 Main Street, Wellfleet.
+
+[Location on Google Maps](https://maps.app.goo.gl/aLCZuRPFywt5gXgJ7)
 
 We sell Palestinian products supporting humanitarian aid and education in 
 Palestine through the following non-profits:
