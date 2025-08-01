@@ -4,7 +4,8 @@ draft = false
 title = 'Palestine Film Series'
 +++
 
-[//]: # ({{< carousel name="carousel-films" >}})
+[//]: # ({{< carousel name="carousel-films" items="1" height="500" unit="px" duration="7000" >}})
+
 
 W4P provides film screenings for films about Palestine. Many of these films are 
 made by Palestinian filmmakers, including women filmmakers.

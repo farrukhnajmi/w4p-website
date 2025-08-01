@@ -10,6 +10,8 @@ title = 'Palestine in The Arts'
 * [Where Olive Trees Weep](https://sites.google.com/view/where-olive-trees-weep/home)
 * [The Soul of Wellfleet](https://sites.google.com/view/the-soul-of-wellfleet/home)
 
+[//]: # (<carousel name="visual-arts-carousel" height="500" unit="px" duration="5000">)
+
 # Suggested Reading
 TBD
 
