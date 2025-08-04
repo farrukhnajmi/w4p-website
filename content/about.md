@@ -12,7 +12,7 @@ freedom, equality and justice for Palestinians.
 * We are opposed to all forms of racism, including antisemitism, Islamophobia, Zionism as an ethno-nationalist, ethno-supremacist ideology, and apartheid.
 * We are for peace and are opposed to terrorism, where terrorism is defined consistently as violence against civilians and civilian infrastructure.
 * We support freedom, equality, and justice for Palestinians.
-* We support the peaceful coexistence of a multi-religious, democratic society in Palestine that protects the rights of minorities, gives equal rights to all its citizens
+* We support the peaceful coexistence of a multi-religious, democratic society in Palestine that protects the rights of minorities, gives equal rights to all its citizens.
 * We support the boycott of, divestment from, and sanctions against Israel and companies that are complicit in the Israeli occupation and apartheid until there is an end to Israeli occupation, apartheid, and ethnic cleansing, resulting in freedom for Palestinians.
 
 # What We Do
