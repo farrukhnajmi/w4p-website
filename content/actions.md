@@ -31,7 +31,7 @@ If a product is on the boycott list the app will provide a rationale for why it 
 ### Support Divestment of Funds from Companies Doing Business With Israel
 
 - Divest personal investments (e.g. retirement / 401K portfolio) from companies doing business with Israel.
-- Demand that our muncipality and State divest from companies doing business with Israel.
+- Demand that our municipalities and State divest from companies doing business with Israel.
 
 Here is information on how to divest and the prioritized short list of companies to divest from:
 
