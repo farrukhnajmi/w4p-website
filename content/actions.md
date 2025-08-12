@@ -60,7 +60,7 @@ including 1 million children, are being starved to death by Israel's blockade of
 {{<video src="/images/VID_20250803_060323-peace-drumming.mp4" cls="my-5" width=360 height=640 >}}
 
 
-**Drumming for Peace at our weekly standout in Wellfleet] - Video Credit: Simon Johannes**
+**Drumming for Peace at our weekly standout in Wellfleet - Video Credit: Simon Johannes**
 
 
 ### Support Palestinian Agriculture and Businesses

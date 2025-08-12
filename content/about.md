@@ -8,6 +8,19 @@ draft = false
 Wellfleet for Palestine 🇵🇸 (W4P) is a group of Wellfleet residents who are committed to
 freedom, equality and justice for Palestinians.
 
+# Why We Exist as a Group
+* We have been seeing a livestreamed Israeli genocide every day since October 2023
+  * Tens of thousands of children have been murdered. [Many of them have been target-killed by Israeli snipers with perfect dead-center shots to their head and heart](https://www.youtube.com/watch?v=36b6TjdLxSg). 
+  * Hospitals, schools, churches, mosques have been bombed by Israel
+  * 270 journalists, numerous healthcare professionals, and first responders have been target-killed by Israel
+  * 2 million people are being starved to death by Israel, 1.1 million of them are children
+  * [Murder and ethnic cleansing by Israeli settlers and army in the West Bank are being done openly and with complete impunity](https://zeteo.com/p/settler-walks-free-as-israel-holds?utm_source=publication-search)
+* We have been seeing the governments of the great powers of the world and the power brokers within every aspect of their civil society, including the media, the large corporations, the many boards of institutions such as [universities](https://www.watermelonpictures.com/films/the-encampments), [libraries](https://themidtowngazette.com/2024/10/in-the-fight-against-censorship-libraries-are-silent-on-palestine/), and other civic organizations use their influence to silence valid criticism, and promote false Israeli propaganda such as [conflation of criticism of Israel with antisemitism](https://www.instagram.com/reel/C9-VeOsvkPz/). 
+* We have seen Israeli lies promoted by the Biden administration and repeated by the Trump administration, [as recently as August 11, 2025 by Mike Huckaby](https://zeteo.com/p/mehdi-debunks-mike-huckabees-gaza), about beheaded Israeli babies, [while real Palestinian beheaded babies are ignored](https://khaledbeydoun.substack.com/p/the-rafah-tent-massacre-and-the-mythtruth).
+* Most of the world sees it for what it is... their deep complicity in genocide
+* We all must do everything in our power to stop sending weapons to Israel and open up all avenues of humanitarian aid to Gaza
+
+
 # What We Stand For
 * We are opposed to all forms of racism, including antisemitism, Islamophobia, Zionism as an ethno-nationalist, ethno-supremacist ideology, and apartheid.
 * We are for peace and are opposed to terrorism, where terrorism is defined consistently as violence against civilians and civilian infrastructure.
