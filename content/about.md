@@ -17,8 +17,8 @@ freedom, equality and justice for Palestinians.
   * [Murder and ethnic cleansing by Israeli settlers and army in the West Bank are being done openly and with complete impunity](https://zeteo.com/p/settler-walks-free-as-israel-holds?utm_source=publication-search)
 * We have been seeing the governments of the great powers of the world and the power brokers within every aspect of their civil society, including the media, the large corporations, the many boards of institutions such as [universities](https://www.watermelonpictures.com/films/the-encampments), [libraries](https://themidtowngazette.com/2024/10/in-the-fight-against-censorship-libraries-are-silent-on-palestine/), and other civic organizations use their influence to silence valid criticism, and promote false Israeli propaganda such as [conflation of criticism of Israel with antisemitism](https://www.instagram.com/reel/C9-VeOsvkPz/). 
 * We have seen Israeli lies promoted by the Biden administration and repeated by the Trump administration, [as recently as August 11, 2025 by Mike Huckaby](https://zeteo.com/p/mehdi-debunks-mike-huckabees-gaza), about beheaded Israeli babies, [while real Palestinian beheaded babies are ignored](https://khaledbeydoun.substack.com/p/the-rafah-tent-massacre-and-the-mythtruth).
-* Most of the world sees it for what it is... their deep complicity in genocide
-* We all must do everything in our power to stop sending weapons to Israel and open up all avenues of humanitarian aid to Gaza
+* Most of the world sees it for what it is... deep complicity in genocide
+* **We all must do everything in our power to stop sending weapons to Israel and open up all avenues of humanitarian aid to Gaza**
 
 
 # What We Stand For
@@ -49,6 +49,22 @@ To be in solidarity with our group, stay informed with our announcements and act
 # Join Us
 If you agree with what we stand for, and support what we do, as described on this page then we invite
 you to join our group. Please [contact](../contact) us and let us know that you wish to join our group.
+
+# Group History
+* The group was created during the early days of the Israeli bombing campaign of after October 7th 2023.
+* The initial focus of the group was to pass a Gaza Ceasefire Petition in Wellfleet
+* On Jan 13, 2024, several members of the group went to Washington, DC for the March for Gaza
+* On May 20, 2024, The [Gaza Ceasefire Petition](https://www.ceasefiredemocrats.com/wellfleet) passed overwhelmingly at the May 20th, 2024, Wellfeet Town Meeting. 
+  * [Wellfleet Voters OK Gaza Ceasefire and Pesticide Petitions](https://provincetownindependent.org/featured/2024/05/22/wellfleet-oks-gaza-ceasefire-and-pesticide-petitions/)
+  * [Petitioned article draws many Wellfleet town meeting voters to microphone.](https://www.capecodtimes.com/story/news/local/2024/05/21/31-million-budget-support-for-gaza-ceasefire-pesticide-reduction-bylaw-pass-town-meeting-wellfleet/73704144007/)
+  * [Some town meetings in Massachusetts weigh in on Israel-Hamas war with articles supporting ceasefire](https://www.boston.com/news/local-news/2024/05/22/some-town-meetings-in-massachusetts-weigh-in-on-israel-hamas-war-with-articles-supporting-ceasefire/)
+* Since May 2024, we have been doing an educational [Palestine Film Series](./palestine-film-series) and have shown 10 films so far:
+* Since June of 2024 we have sold Palestinian goods at Wellfleet Farmers Market, donating all profits for humanitarian relief and education in Palestine
+* On July 24, 2024, several members of the group went to Washington, DC, for the protest March against Netanyahu’s visit
+* Jan 14, 2025 Protesters from outside Wellfleet attempted to stop the screening of the film [The Occupation of the American Mind](https://youtu.be/dP0-YohJR-g?si=u482papWdea7QIDn) at Wellfleet Public Library.
+  * [A Teachable Moment in Wellfleet](../teachable-moment)
+  * [Israel, Palestine on Cape Cod: Wellfleet film screening balances free speech with protests](https://www.capecodtimes.com/story/news/2025/01/15/wellfleet-ma-palestine-israel-film-screening-protest-occupation-american-mind/77697918007/) - Cape Cod Times, January 15, 2025
+  * [After Tense Prologue, Film and Discussion Go Forward Without Incident](https://provincetownindependent.org/local-journalism-project/next-generation/2025/01/15/after-tense-prologue-film-and-discussion-go-forward-without-incident/) - Provincetown Independent, January 15, 2025
 
 
 
