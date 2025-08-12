@@ -9,7 +9,7 @@ Wellfleet for Palestine 🇵🇸 (W4P) is a group of Wellfleet residents who are
 freedom, equality and justice for Palestinians.
 
 # Why We Exist as a Group
-* We have been seeing a livestreamed Israeli genocide every day since October 2023.
+* We have seen a livestreamed Israeli genocide every day since October 2023.
   * Tens of thousands of children have been murdered. [Many of them have been target-killed by Israeli snipers with perfect dead-center shots to their head and heart](https://www.youtube.com/watch?v=36b6TjdLxSg). 
   * Hospitals, schools, churches, mosques have been bombed by Israel.
   * [192 journalists](https://cpj.org/2025/08/israel-kills-al-jazeera-journalists-in-targeted-gaza-city-airstrike/), [over a thousand healthcare professionals](https://www.doctorswithoutborders.org/latest/remembering-our-colleagues-killed-gaza), and first responders have been target-killed by Israel.
