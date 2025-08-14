@@ -14,9 +14,10 @@ Below is the schedule of films that have been or will be screened as part of our
 
 # Upcoming Films
 
-* [Gaza: Doctors Under Attack](https://www.imdb.com/title/tt37504739/), date and location TBD
+* September 4, 2025 [Gaza: Doctors Under Attack](https://zeteo.com/p/watch-now-gaza-doctors-under-attack), Truro Public Library. **NOTE: This is in Truro and not in Wellfleet**
 
 * [The Encampments (2025)](https://www.watermelonpictures.com/films/the-encampments), date and location TBD
+*  [THE VOICE OF HIND RAJAB](https://www.imdb.com/title/tt36943034/) by Kaouther Ben Hania, date and location TBD
 
 # Past Films
 
