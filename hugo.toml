@@ -56,10 +56,16 @@ url        = "/arts/"
 weight     = 7
 
 [[menu.main]]
+name       = "Calendar"
+identifier = "menu.calendar"
+url        = "/calendar/"
+weight     = 8
+
+[[menu.main]]
 name       = "Contact"
 identifier = "menu.contact"
 url        = "/contact/"
-weight     = 8
+weight     = 9
 
 # Top bar social links menu
 

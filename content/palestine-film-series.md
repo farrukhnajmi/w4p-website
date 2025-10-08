@@ -12,14 +12,21 @@ made by Palestinian filmmakers, including women filmmakers.
 
 Below is the schedule of films that have been or will be screened as part of our educational Palestine Film Series.
 
+𝙏𝙝𝙞𝙨 𝙥𝙖𝙜𝙚 𝙤𝙣𝙡𝙮 𝙡𝙞𝙨𝙩𝙨 𝙛𝙞𝙡𝙢 𝙚𝙫𝙚𝙣𝙩𝙨. 𝙁𝙤𝙧 𝙖 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙚 𝙘𝙖𝙡𝙚𝙣𝙙𝙖𝙧 𝙤𝙛 𝙚𝙫𝙚𝙣𝙩𝙨, [𝙥𝙡𝙚𝙖𝙨𝙚 𝙘𝙡𝙞𝙘𝙠 𝙝𝙚𝙧𝙚](/calendar).
+
+
 # Upcoming Films
 
-* September 4, 2025 [Gaza: Doctors Under Attack](https://zeteo.com/p/watch-now-gaza-doctors-under-attack), Truro Public Library. **NOTE: This is in Truro and not in Wellfleet**
+* November 22, 2025, 2 PM [Louis Theroux: The Settlers (2025)](https://www.instagram.com/p/DKPcSzLMu4p/), [Truro Public Library, 7 Standish Way North Truro MA](https://maps.app.goo.gl/zFngC5oVduFSwoXU8) **NOTE: This location is in Truro not Wellfleet**
 
 * [The Encampments (2025)](https://www.watermelonpictures.com/films/the-encampments), date and location TBD
-*  [THE VOICE OF HIND RAJAB](https://www.imdb.com/title/tt36943034/) by Kaouther Ben Hania, date and location TBD
+ 
+* [THE VOICE OF HIND RAJAB](https://www.imdb.com/title/tt36943034/) by Kaouther Ben Hania, date and location TBD
+
 
 # Past Films
+
+* September 4, 2025, 6 PM [Gaza: Doctors Under Attack](https://zeteo.com/p/watch-now-gaza-doctors-under-attack), [Truro Public Library, 7 Standish Way North Truro MA](https://maps.app.goo.gl/zFngC5oVduFSwoXU8). Watch it for free [here](https://www.youtube.com/watch?v=Q2FeGm0bCAA).
 
 * July 16, 2025 Film screening of [Roadmap to Apartheid (2012)](https://www.imdb.com/title/tt2124900/), at Chapel in the Pines, 220 Samoset Rd, Eastham. Watch it for free [here](https://youtu.be/3psMGQE0iW4?si=61GVmdcIan_JGIUA).
 

@@ -53,8 +53,14 @@ Please [email us](mailto:wellfleet4palestine@gmail.com) if there are new urgent 
 Bring signs and banners. We are currently drawing attention to the fact that that 2 million people,
 including 1 million children, are being starved to death by Israel's blockade of Gaza.
 
+In-Season Timings (Starting Memorial Day until September 6, 2025)
 * Every Saturday 9-10 AM at [Eastham Windmill](https://maps.app.goo.gl/g7fgtehUNJEuEGNu7)
 * Every Saturday 11 AM - 12 PM at [Wellfleet Townhall](https://maps.app.goo.gl/vK6YznCvB5nX7fUu8)
+
+Off-Season Timings (Starting September 13 until Memorial Day Weekend)
+* Every Saturday 10 AM - 11 AM at [Wellfleet Townhall](https://maps.app.goo.gl/vK6YznCvB5nX7fUu8)
+* Every Saturday 12 PM - 1 PM at [Eastham Windmill](https://maps.app.goo.gl/g7fgtehUNJEuEGNu7)
+
 
 
 {{<video src="/images/VID_20250803_060323-peace-drumming.mp4" cls="my-5" width=360 height=640 >}}
