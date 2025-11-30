@@ -17,7 +17,7 @@ Below is the schedule of films that have been or will be screened as part of our
 
 # Upcoming Films
 
-* November 22, 2025, 2 PM [Louis Theroux: The Settlers (2025)](https://www.instagram.com/p/DKPcSzLMu4p/), [Truro Public Library, 7 Standish Way North Truro MA](https://maps.app.goo.gl/zFngC5oVduFSwoXU8) **NOTE: This location is in Truro not Wellfleet**
+* [Breaking Ranks: Inside Israel's War](https://www.theguardian.com/world/2025/nov/10/israeli-soldiers-breaking-ranks-gaza-civilians-human-shields), date and location TBD
 
 * [The Encampments (2025)](https://www.watermelonpictures.com/films/the-encampments), date and location TBD
  
@@ -25,6 +25,8 @@ Below is the schedule of films that have been or will be screened as part of our
 
 
 # Past Films
+
+* November 22, 2025, 2 PM [Louis Theroux: The Settlers (2025)](https://www.instagram.com/p/DKPcSzLMu4p/), [Truro Public Library, 7 Standish Way North Truro MA](https://maps.app.goo.gl/zFngC5oVduFSwoXU8). Watch it for free [here](https://www.filmsforaction.org/watch/louis-theroux-the-settlers/).
 
 * September 4, 2025, 6 PM [Gaza: Doctors Under Attack](https://zeteo.com/p/watch-now-gaza-doctors-under-attack), [Truro Public Library, 7 Standish Way North Truro MA](https://maps.app.goo.gl/zFngC5oVduFSwoXU8). Watch it for free [here](https://www.youtube.com/watch?v=Q2FeGm0bCAA).
 
