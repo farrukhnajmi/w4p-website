@@ -16,6 +16,7 @@
 
 # Publishing Website To GCloud Storage
 1. Generate website to public folder: `hugo`
+2. Authenticate with gcloud. Command will launch chrome browser. Choose fnajmi@wellfleetsoftware.com google profile for authN: `gcloud auth login`
 2. Copy website to gcloud: `gsutil rsync -R /home/farrukh/wellfleet4palestine/w4p-website/public gs://www.wellfleet4palestine.org`
 
 # gcloud Vs gsutil
