@@ -17,6 +17,7 @@
 # Github Cheatsheet
 
 * To authenticate: `gh auth login`
+* TBD
 
 # Publishing Website To GCloud Storage
 1. Generate website to public folder: `hugo`
