@@ -2,6 +2,7 @@ baseURL = 'https://www.wellfleet4palestine.org/'
 languageCode = 'en-us'
 title = 'Wellfleet for Palestine'
 theme = "hugo-universal-theme"
+themesDir = "themes"
 # theme = 'ananke'
 
 # Define the number of posts per page
