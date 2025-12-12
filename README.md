@@ -14,6 +14,10 @@
 2. hugo server -D &
 3. Open in browser: http://localhost:1313/
 
+# Github Cheatsheet
+
+* To authenticate: `gh auth login`
+
 # Publishing Website To GCloud Storage
 1. Generate website to public folder: `hugo`
 2. Authenticate with gcloud. Command will launch chrome browser. Choose fnajmi@wellfleetsoftware.com google profile for authN: `gcloud auth login`
