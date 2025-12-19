@@ -146,8 +146,8 @@ contact_url = "/contact"
 #      </p>
 #      """
 
-[permalinks]
-    blog = "/blog/:year/:month/:day/:contentbasename/"
+#[permalinks]
+#    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
