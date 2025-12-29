@@ -33,3 +33,20 @@ td, th {
   padding: 0 .2em;
 }
 
+/* For adding a marquee: https://www.google.com/search?q=hugo+universal+theme+how+to+show+a+marquee&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKABMgkIBBAhGAoYoAEyBwgFECEYjwIyBwgGECEYjwIyBwgHECEYjwLSAQkyMjI5OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZud1z6kQpMfoEdCJxnpm_3UK3oyqvhV9opp98EEM6wbwHzDo1FKQA4Ghovh3mhAD4mvq3u94VSBwROsr2SRW_QsNhBkiQArMASqGLEYbI4B35Fg5omhw4E6kTfrjU6UnmyV9etX8i0oaGlwPfXFjMUFWaQNW6BkYmefQfIEcKbCpjAphKmE7Iik8MDtjfR0jlVZ6hHQ&ved=2ahUKEwi357CguOORAxWFVjUKHY5MBQEQ0NsOegQIAxAB&aep=10&ntc=1&mtid=i8pSabShHICt5NoPlbvswQU&mstk=AUtExfBoQBnh3k08Mj4Zo5hSLjlpZbK0GuJfYPjVUHB18T179YV3db4EbPsJAMCxVX5dHi8irs68x8vB68nKXusPIHN4CocRT45ARRvbSUBf-oBP8V5O0uuhFiLMZLxZ8Z2eXr-WkgX4vdwJPwgBhBGfGWVbPr6uSaNgdZuDGB5toRcnSEtIe2Zy1MEL6fwcWjSsROmzQ30CqbD57HCh7Lbx_gL26b-paD8CUqr0eVFyPTlX_o5pOsPbbt67xWHMgieIxZ5qL0PYXOoi9pPaG_s5QAYWRZiP-OatRSJYrxFEEn2lqfLiaTtrIsCOm1dgn0B9sZmNuUDOpaAong&csuir=1 */
+
+.marquee-container {
+  overflow: hidden;
+  white-space: nowrap;
+  background: #f1f1f1;
+}
+.marquee-text {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 30s linear infinite;
+  marquee-speed: fast;
+}
+@keyframes marquee {
+  0%   { transform: translate(0, 0); }
+  100% { transform: translate(-100%, 0); }
+}
