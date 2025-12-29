@@ -152,17 +152,11 @@ contact_url = "/contact"
 # Enable or disable top bar with social icons
 [params.topbar]
 enable = true
-#text = """<p class="hidden-sm hidden-xs">🇵🇸 Contact us on wellfleet4palestine@gmail.com. Follow us on instagram.🇵🇸</p>
-#      <p class="hidden-md hidden-lg"><a href="tel:+1 415-935-3581" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-#      <a href="mailto:wellfleet4palestine@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-#      </p>
-#      """
-text = """<p class="hidden-sm hidden-xs">🇵🇸 Free talk and community dinner on January 8, 2026. <a href="https://tinyurl.com/health-in-palestine">Click here to register.</a> 🇵🇸</p>
+text = """<p class="hidden-sm hidden-xs">🇵🇸 Contact us on wellfleet4palestine@gmail.com. Follow us on instagram.🇵🇸</p>
       <p class="hidden-md hidden-lg"><a href="tel:+1 415-935-3581" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:wellfleet4palestine@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
-
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
