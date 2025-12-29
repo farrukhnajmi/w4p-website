@@ -157,7 +157,7 @@ enable = true
 #      <a href="mailto:wellfleet4palestine@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
 #      </p>
 #      """
-text = """<p class="hidden-sm hidden-xs">🇵🇸 <span class="blink">Free talk and community dinner on January 8, 2026. <a href="https://tinyurl.com/health-in-palestine">Click here to register.</a></span>🇵🇸</p>
+text = """<p class="hidden-sm hidden-xs">🇵🇸 Free talk and community dinner on January 8, 2026. <a href="https://tinyurl.com/health-in-palestine">Click here to register.</a> 🇵🇸</p>
       <p class="hidden-md hidden-lg"><a href="tel:+1 415-935-3581" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:wellfleet4palestine@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
