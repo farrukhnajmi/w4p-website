@@ -2,6 +2,10 @@
 date = '2025-07-24T16:42:24-04:00'
 draft = false
 title = 'Actions'
+aliases = [
+    "/palestine-film-series/",
+    "/events/"
+]
 +++
 
 # What Can We Do to Support Palestine

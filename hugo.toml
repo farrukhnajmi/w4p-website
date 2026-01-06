@@ -33,9 +33,9 @@ url        = "/actions/"
 weight     = 3
 
 [[menu.main]]
-name       = "Films"
-identifier = "menu.films"
-url        = "/palestine-film-series/"
+name       = "Events"
+identifier = "menu.events"
+url        = "/events/"
 weight     = 4
 
 [[menu.main]]
