@@ -19,6 +19,12 @@ Here are some vetted organizations to donate money for Gaza Relief:
 - [United Nations Relief & Works Agency for Palestinian Refugees (UNRWA)](https://www.unrwa.org/)
 - [Doctors Against Genocide](https://doctorsagainstgenocide.org/donate)
 
+### Donate Money for West Bank Relief
+While there is a genocide going on in Gaza, the West Bank is experiencing the most massive ethnic cleansing in its history. Here are some organizations doing great work there:
+
+- [1for3](https://www.1for3.org/donate)
+- [Health for Palestine](https://www.healthforpalestine.org/donate)
+
 ### Support the Boycott of Israel
 
 Here is how we can support the boycott of Israel.
@@ -27,6 +33,8 @@ Here is how we can support the boycott of Israel.
 2. When buying **anything**, consult the app to make sure it is not on the Israel boycott. You can enter a product or company name or scan a barcode to check a product before buying it.
 
 If a product is on the boycott list the app will provide a rationale for why it is on the boycott list and suggest alternative products where possible.
+
+The No Thanks app now also supports the [boycott of United Arab Emirates (UAE) for its complicity in the genocide in Darfur in Western Sudan](https://boycottuae.org/).
 
 ### Support Divestment of Funds from Companies Doing Business With Israel
 
