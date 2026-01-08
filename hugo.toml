@@ -82,6 +82,12 @@ name = "Instagram"
 url = "https://www.instagram.com/wellfleet4palestine/"
 pre = "<i class='fab fa-2x fa-instagram'></i>"
 
+[[menu.topbar]]
+weight = 3
+name = "Linktree"
+url = "https://linktr.ee/wellfleet4palestine"
+pre = "<i class='fa fa-tree fa-lg'></i>"
+
 #[[menu.topbar]]
 #weight = 3
 #name = "Facebook"

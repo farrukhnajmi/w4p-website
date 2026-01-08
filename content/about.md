@@ -44,6 +44,7 @@ freedom, equality and justice for Palestinians.
 
 To be in solidarity with our group, stay informed with our announcements and actions please follow us:
 
+* On Linktree find links to all our sites: https://linktr.ee/wellfleet4palestine
 * On Instagram: https://www.instagram.com/wellfleet4palestine/
 * On our low-traffic email mailing list:
   * For Wellfleet residents:  https://groups.io/g/wellfleet-palestine-solidarity/join
