@@ -16,8 +16,6 @@ Below is the schedule of films screenings and other events.
 
 # Upcoming Events
 
-* January 31, 2026, 2-5 PM, [The Arts for Gaza: An afternoon of juggling, poetry, music, Chapel in The Pines, Eastham MA. Please register here for this free event](https://www.eventbrite.com/e/the-arts-for-gaza-an-afternoon-of-juggling-poetry-music-tickets-1980285100042)
-
 * Film screening of [Breaking Ranks: Inside Israel's War](https://www.theguardian.com/world/2025/nov/10/israeli-soldiers-breaking-ranks-gaza-civilians-human-shields), date and location TBD
 
 * Film screening of [The Encampments (2025)](https://www.watermelonpictures.com/films/the-encampments), date and location TBD
@@ -26,6 +24,8 @@ Below is the schedule of films screenings and other events.
 
 
 # Past Events
+
+* January 31, 2026, 2-5 PM, [The Arts for Gaza: An afternoon of juggling, poetry, music, Chapel in The Pines, Eastham MA. Please register here for this free event](https://www.eventbrite.com/e/the-arts-for-gaza-an-afternoon-of-juggling-poetry-music-tickets-1980285100042)
 
 * January 8, 2026, 6-8 PM Panel Discussion and Community Dinner, [Sustaining Health and Community in Palestine Wellfleet Public Library. Please register for free ticket to help us plan adequate quantities of food](https://www.eventbrite.com/e/free-community-event-sustaining-health-and-community-in-palestine-tickets-1978629927376).
 
