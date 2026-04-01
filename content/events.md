@@ -15,12 +15,11 @@ Below is the schedule of films screenings and other events.
 𝙁𝙤𝙧 𝙖 𝙘𝙖𝙡𝙚𝙣𝙙𝙖𝙧 𝙤𝙛 𝙚𝙫𝙚𝙣𝙩𝙨, [𝙥𝙡𝙚𝙖𝙨𝙚 𝙘𝙡𝙞𝙘𝙠 𝙝𝙚𝙧𝙚](/calendar).
 
 # Upcoming Events
+* April 25, 2026, 2 PM Film screening of [THE VOICE OF HIND RAJAB](https://www.imdb.com/title/tt36943034/) by Kaouther Ben Hania, [Truro Public Library, 7 Standish Way North Truro MA](https://maps.app.goo.gl/zFngC5oVduFSwoXU8).
 
 * Film screening of [Breaking Ranks: Inside Israel's War](https://www.theguardian.com/world/2025/nov/10/israeli-soldiers-breaking-ranks-gaza-civilians-human-shields), date and location TBD
 
 * Film screening of [The Encampments (2025)](https://www.watermelonpictures.com/films/the-encampments), date and location TBD
- 
-* Film screening of [THE VOICE OF HIND RAJAB](https://www.imdb.com/title/tt36943034/) by Kaouther Ben Hania, date and location TBD
 
 
 # Past Events
