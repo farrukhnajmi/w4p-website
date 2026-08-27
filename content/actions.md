@@ -85,7 +85,7 @@ Off-Season Timings (Starting September 13 until Memorial Day Weekend)
 
 We can buy Palestinian goods at the following places:
 
-- [At W4P table at Wellfleet Farmers Market](../farmers-market)
+[//]: # (- [At W4P table at Wellfleet Farmers Market]&#40;../farmers-market&#41;)
 - [Shop Palestine](https://www.shoppalestine.org/), online store by [Middle East Children’s Alliance (MECA)](https://www.mecaforpeace.org/)
-- [Rajaeen](https://rajaeen.com/)
-
+- [Rajaeen](https://rajaeen.com/) -  Palestinian apparel and gifts
+- [Wear the Peace](https://wearthepeace.com/) - Palestinian apparel and gifts

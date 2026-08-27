@@ -38,11 +38,11 @@ identifier = "menu.events"
 url        = "/events/"
 weight     = 4
 
-[[menu.main]]
-name       = "Farmers Market"
-identifier = "menu.market"
-url        = "/farmers-market/"
-weight     = 5
+#[[menu.main]]
+#name       = "Farmers Market"
+#identifier = "menu.market"
+#url        = "/farmers-market/"
+#weight     = 5
 
 [[menu.main]]
 name       = "News"

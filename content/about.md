@@ -38,7 +38,8 @@ freedom, equality and justice for Palestinians.
 # What are some examples of activities by Wellfleet for Palestine?
 * Organize and participate in [actions](../actions) such as ongoing standouts, rallies, marches, email and phone campaigns in support of a ceasefire in Gaza and freedom, equality and justice for Palestinians.
 * Screening [films](../events) about Palestine. 
-* Selling Palestinian products at [Wellfleet Farmers Market](../farmers-market) and donating all profits towards educational and relief efforts in Palestine.
+
+[//]: # (* Selling Palestinian products at [Wellfleet Farmers Market]&#40;../farmers-market&#41; and donating all profits towards educational and relief efforts in Palestine.)
 
 # Follow Us
 
@@ -63,7 +64,7 @@ you to join our group. Please [contact](../contact) us and let us know that you 
   * [Petitioned article draws many Wellfleet town meeting voters to microphone.](https://www.capecodtimes.com/story/news/local/2024/05/21/31-million-budget-support-for-gaza-ceasefire-pesticide-reduction-bylaw-pass-town-meeting-wellfleet/73704144007/)
   * [Some town meetings in Massachusetts weigh in on Israel-Hamas war with articles supporting ceasefire](https://www.boston.com/news/local-news/2024/05/22/some-town-meetings-in-massachusetts-weigh-in-on-israel-hamas-war-with-articles-supporting-ceasefire/)
 * Since May 2024, we have been doing an educational [Palestine Film Series](./events)
-* Since June of 2024 we have sold Palestinian goods at Wellfleet Farmers Market, donating all profits for humanitarian relief and education in Palestine
+* In 2024 and 2025 we have sold Palestinian goods at Wellfleet Farmers Market, donating all profits for humanitarian relief and education in Palestine
 * On July 24, 2024, several members of the group went to Washington, DC, for the protest March against Netanyahu’s visit
 * Jan 14, 2025 Protesters from outside Wellfleet attempted to stop the screening of the film [The Occupation of the American Mind](https://youtu.be/dP0-YohJR-g?si=u482papWdea7QIDn) at Wellfleet Public Library.
   * [A Teachable Moment in Wellfleet](../teachable-moment)

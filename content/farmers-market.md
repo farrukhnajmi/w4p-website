@@ -4,6 +4,8 @@ draft = false
 title = 'W4P at Wellfleet Farmers Market'
 +++
 
+**THIS PAGE IS DEPRECATED: W4P NO LONGER STAFFS A TABLE AT WELLFLEET FARMERS MARKET DUE TO SHORTAGE OF STAFF AND SUPPLIES**
+
 Volunteers from Wellfleet for Palestine staff a nonprofit table near the 
 entrance of [Wellfleet Farmers Market](https://www.wellfleetfarmersmarket.com/) every Wednesday between May 21, 2025, 
 and October 15, 2025. The location is the field next to Wellfleet's [First Congregational Church](https://www.wellfleetchurch.org/) parking lot at 200 Main Street, Wellfleet.
